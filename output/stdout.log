@@ -1,0 +1,10 @@
+==============================================================================
+Tasks :: Esse eh o meu robo.                                                  
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        | PASS |
+------------------------------------------------------------------------------
+Tasks :: Esse eh o meu robo.                                          | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  /home/felipe_carlone/Desktop/Robocorp_2/output/output.xml
+Log:     /home/felipe_carlone/Desktop/Robocorp_2/output/log.html
